@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://selasa-kliwon.github.io/bab-3/sitemap.xml
